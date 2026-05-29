@@ -48,7 +48,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-## SimpleCalculator.jsk
+## SimpleCalculator.jsx
 ```
 import React, { useState } from "react";
 import "./Calculator.css";
